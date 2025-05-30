@@ -26,16 +26,6 @@ https://book-store-server-jdev.onrender.com/
 
 ---
 
-## 🔗 Postman Collection
-
-You can test all the API endpoints using this Postman collection:
-
-🌐 [View Postman Collection](https://.postman.co/workspace/My-Workspace~f2d736f2-e9e6-4c4f-8e9f-0ff16b9cfa25/collection/36959608-62c7550f-abdf-4370-9988-16824b69f94f?action=share&creator=36959608)
-
-> Replace with the real URL from Postman.
-
----
-
 ## 🧭 API Endpoints
 
 ### 📥 Create a Book
@@ -116,7 +106,7 @@ You can use this data for testing POST routes:
   {
     "title": "Atomic Habits",
     "author": "James Clear",
-    "price": 16.00,
+    "price": 16.0,
     "publishedDate": "2018-10-16"
   },
   {
