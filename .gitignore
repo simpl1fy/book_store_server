@@ -1,0 +1,3 @@
+#Add anything that needs to be ignored here.
+node_modules/
+.env
